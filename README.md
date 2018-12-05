@@ -1,6 +1,6 @@
 # myraspi
 
-> 生命不息,折腾不止
+> A Vue.js project
 
 ## Build Setup
 
